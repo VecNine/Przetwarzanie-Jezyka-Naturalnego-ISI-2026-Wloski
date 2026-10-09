@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DATABASES
+WLOSKI_DATASET_FULL/
+*.parquet
