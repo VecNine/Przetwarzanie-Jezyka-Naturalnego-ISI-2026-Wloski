@@ -1,0 +1,1 @@
+# Przetwarzanie-Jezyka-Naturalnego-ISI-2026-Wloski
